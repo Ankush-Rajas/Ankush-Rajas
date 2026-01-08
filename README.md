@@ -35,13 +35,15 @@ Full-Stack Web Development
 ✔ Implemented data preprocessing & feature engineering  
 ✔ Evaluated models using performance metrics  
 ✔ Focused on real-world HR analytics  
-Projects
+
+
 **2. Hospital Management System (Java-Based Application)**
 
 Developed a comprehensive hospital management system using Java to manage core hospital operations such as patient records, doctor information, appointments, and billing. The system focuses on structured data handling, role-based access, and efficient workflow management to support hospital administration.
 
 **Technologies:**
 Java, OOP Concepts, JDBC, MySQL
+
 
 **3. Employee Salary Prediction (Machine Learning)**
 
@@ -50,12 +52,14 @@ Built a machine learning model to predict employee salaries based on factors suc
 **Technologies:**
 Python, Machine Learning, Pandas, NumPy, Scikit-learn
 
+
 **4. Hypertension Prediction System (Machine Learning)**
 
 Developed a machine learning-based system to predict the risk of hypertension using patient health parameters. The project focuses on early detection, data-driven medical insights, and supporting healthcare professionals in preventive decision-making.
 
 Technologies:
 Python, Machine Learning, Pandas, NumPy, Scikit-learn
+
 
 **5. Sentinel Net – AI-Powered Intrusion Detection System**
 
@@ -121,7 +125,7 @@ To pursue a challenging role in Artificial Intelligence, Machine Learning, or Da
   <img src="https://user-images.githubusercontent.com/74038190/212749702-3e6c3f07-9c6b-4bfa-98a6-3a9c3bb7edb0.gif" width="300"/>
 </p>
 
-**👤 Name:** Ankush Rajas  
+<h1>**👤 Name:** Ankush Rajas</h1>
 **🎓 Field:** Computer Science Engineering 
 **💡 Interests:** AI, ML, Data Science, Healthcare AI  
 
