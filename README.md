@@ -125,7 +125,7 @@ To pursue a challenging role in Artificial Intelligence, Machine Learning, or Da
   <img src="https://user-images.githubusercontent.com/74038190/212749702-3e6c3f07-9c6b-4bfa-98a6-3a9c3bb7edb0.gif" width="300"/>
 </p>
 
-<h1>**👤 Name:** Ankush Rajas</h1>
+<h2>👤 Name: Ankush Rajas</h2>
 **🎓 Field:** Computer Science Engineering 
 **💡 Interests:** AI, ML, Data Science, Healthcare AI  
 
