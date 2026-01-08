@@ -13,8 +13,6 @@ I am a passionate and motivated with a strong interest in Java Full-Stack Develo
 
 My academic journey has involved hands-on projects, internships, and research-oriented work, particularly in the healthcare AI domain, Management System, where I focus on predictive modeling and intelligent decision support systems.
 
-**Portfolio :-** https://my-portfolio-ankush-rajas.netlify.app/
-
 🔬 Academic Interests
 
 Java Full-Stack Development
@@ -128,8 +126,12 @@ To pursue a challenging role in Artificial Intelligence, Machine Learning, or Da
 </p>
 
 <h2>👤 Name: Ankush Rajas</h2>
+
 **🎓 Field:** Computer Science Engineering 
-**💡 Interests:** AI, ML, Data Science, Healthcare AI  
+
+**💡 Interests:** AI, ML, Data Science, Healthcare AI
+
+**Portfolio :-** https://my-portfolio-ankush-rajas.netlify.app/
 
 ⭐ Final Note
 
