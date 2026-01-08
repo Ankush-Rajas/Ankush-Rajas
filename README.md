@@ -12,7 +12,7 @@
 I am a passionate and motivated with a strong interest in Java Full-Stack Development, Full-Stack Web Development, Artificial Intelligence, Machine Learning . I enjoy solving real-world problems using data-driven approaches and building intelligent systems that can assist decision-making in healthcare, recruitment, and privacy-preserving technologies.
 
 My academic journey has involved hands-on projects, internships, and research-oriented work, particularly in the healthcare AI domain, Management System, where I focus on predictive modeling and intelligent decision support systems.
-
+**Portfolio :-** https://my-portfolio-ankush-rajas.netlify.app/
 🔬 Academic Interests
 
 Java Full-Stack Development
